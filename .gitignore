@@ -1,0 +1,35 @@
+# Licensed / proprietary packages
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Licenses and secrets
+*.lic
+*.license
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+secrets/
+licenses/
+
+# Runtime data
+_appdata/
+_db/
+_logs/
+node_modules/
+
+# Local configs / evidence
+configs/local/
+evidence/private/
+backups/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
