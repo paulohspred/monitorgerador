@@ -1,0 +1,10 @@
+# Artefatos recebidos para a POC em 2026-09-08
+
+# RC Gateway Standalone Linux AMD64
+fe129a211eb6fc5a5e8b2c6a8bfc02d390685d450b5ab3ffa5af4a6e70547c05  RC_Gateway_Standalone_6af76e6_linux_amd64.zip
+
+# FUXA Pro package 1.3.4-2890
+5df2180e1a8098f11ed5406bf178d1c0f3fe3a52a7b9677bb5709253e529f82e  v1.3.4-2890.zip
+
+# Gateway binary inside standalone package
+2f8b712abb47edf47b3674d74deba8c9e6f9075f59eca9c6fcba49a0331c1066  bin/rc-gateway
